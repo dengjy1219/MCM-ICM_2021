@@ -1,9 +1,9 @@
 # MCM-ICM_2021
 Finalist of Mathematical Contest in Modeling (MCM)® / Interdisciplinary Contest in Modeling (ICM)® 2021
 
-**Problem D: The Influence of Music**
+Problem D: The Influence of Music
 
-Summary:
+## Summary
 
 In today's society, it has become more and more common to use "networks" connected by different nodes to analyze the relationship between things, and the rapid development of network science has also proved this. In order to measure the dynamic influence of music artists on the evolution of music, we used network science and technology to complete the following tasks related to musicians and music genres, and gave our conclusions on the evolution of music.
 
