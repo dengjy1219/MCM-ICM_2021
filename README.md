@@ -3,6 +3,8 @@ Finalist of Mathematical Contest in Modeling (MCM)® / Interdisciplinary Contest
 
 **Problem D: The Influence of Music**
 
+Summary:
+
 In today's society, it has become more and more common to use "networks" connected by different nodes to analyze the relationship between things, and the rapid development of network science has also proved this. In order to measure the dynamic influence of music artists on the evolution of music, we used network science and technology to complete the following tasks related to musicians and music genres, and gave our conclusions on the evolution of music.
 
 Firstly, We measure the influence of different musicians and genres through our self-built music network model. The musician is set as a node, and its influence on other musicians is taken as an edge, and three node indicators: degree, betweenness centrality and average clustering coefficient are selected to represent the musician’s "Music Influence" from different dimensions. Then, the characteristics of all the artists of the genre are used to represent the genre, and the influence between the genres is measured in the same way with artists.
